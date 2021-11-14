@@ -1,0 +1,14 @@
+<html>
+<head><title>sck</title></head>
+<body>
+<h1>3A students</h1><hr>
+<p><font face="arial" size="16" color="#000000">你好</font><br>
+歡迎光臨</p>
+<p align="center"><b><i>努力讀書！</i></b></p>
+<a href="http://google.com"><font face="arial">一個供搜尋的網站</font></a>
+<ol><li>米</li>
+<li>油</li>
+<li>鹽</li></ol>
+<img src="images.png" alt="snoopy">
+</body>
+</html>
